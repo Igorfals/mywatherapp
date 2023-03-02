@@ -1,0 +1,13 @@
+.mycontainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.card-header {
+  text-align: center;
+}
+
+.card {
+  min-height: 400px;
+}
